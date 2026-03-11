@@ -2,6 +2,15 @@
 
 Portfolio Visualizer is an Excel-based financial analytics dashboard designed to track stock investments, SIP contributions, and portfolio performance.
 
+
+## 🌐 Live Project
+
+View the project here:
+
+https://karthickraja46.github.io/Portfolio-Visualizer-Excel-Dashboard/
+
+
+
 ## 📌 Project Overview
 
 This project provides a structured way to monitor stock holdings, calculate portfolio value, track investment history, and analyze returns using automated Excel formulas and visual dashboards.
