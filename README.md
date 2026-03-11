@@ -1,36 +1,45 @@
-# Stock-Portfolio-Tracker-Excel
-Excel dashboard for tracking stock investments, portfolio value, and returns using automated formulas and visual analytics.
-# 📊 Stock Portfolio Tracker (Excel Dashboard)
+# 📊 Portfolio Visualizer (Excel Dashboard)
 
-An Excel-based portfolio management system designed to track stock investments, analyze returns, and visualize portfolio performance.
+Portfolio Visualizer is an Excel-based financial analytics dashboard designed to track stock investments, SIP contributions, and portfolio performance.
 
 ## 📌 Project Overview
 
-This project helps investors monitor their portfolio by calculating investment value, profit/loss, and return percentage automatically using Excel formulas and dashboards.
+This project provides a structured way to monitor stock holdings, calculate portfolio value, track investment history, and analyze returns using automated Excel formulas and visual dashboards.
 
 ## 🚀 Features
 
-• Automatic portfolio value calculation
-• Profit and return percentage tracking
-• Investment performance monitoring
-• Interactive dashboard with charts
-• Portfolio summary analytics
+• Portfolio dashboard showing total invested capital, current value, and profit
+• Stock holdings tracker with automatic return calculation
+• SIP investment tracking and summary analysis
+• Portfolio history tracking for performance monitoring
+• Financial calculations using Excel formulas
+• Organized formula reference for transparency
 
-## 🛠 Tools & Skills Used
+## 📂 Project Structure
 
-* Microsoft Excel
-* Financial Analysis
-* Data Visualization
-* Excel Formulas
-* Portfolio Management
+Master_Sheet – Central data management
+IND_HOLDINGS – Individual stock holdings tracker
+PORT_HISTORY – Portfolio performance history
+SIP – Systematic investment plan tracker
+SIP-SUMMARY – SIP performance summary
+SUMMARY – Portfolio dashboard
+FORMULA_REFERENCE – Documentation of formulas used
+
+## 🛠 Tools Used
+
+Microsoft Excel
+Financial Analysis
+Data Visualization
+Portfolio Analytics
 
 ## 📈 Future Improvements
 
-• Monthly performance analysis
-• Risk metrics and drawdown analysis
-• Automatic stock price updates
+• Monthly portfolio performance analysis
+• Risk metrics such as drawdown analysis
+• Sector allocation visualization
+• Automated stock price updates
 • Portfolio diversification analysis
 
 ## 👨‍💻 Author
 
-**Karthick Raja**
+Karthick Raja
