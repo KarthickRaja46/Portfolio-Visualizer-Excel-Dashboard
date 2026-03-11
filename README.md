@@ -34,4 +34,3 @@ This project helps investors monitor their portfolio by calculating investment v
 ## 👨‍💻 Author
 
 **Karthick Raja**
-B.E Computer Science Engineering
