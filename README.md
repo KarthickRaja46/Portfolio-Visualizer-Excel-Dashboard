@@ -39,6 +39,27 @@ Portfolio Analytics
 • Sector allocation visualization
 • Automated stock price updates
 • Portfolio diversification analysis
+## 📸 Project Dashboard Preview
+
+### Portfolio Summary Dashboard
+
+![Summary](Sample_Outputs/Summary.png)
+
+### Holdings Tracker
+
+![Holdings](Sample_Outputs/Holdings.png)
+
+### Portfolio History
+
+![Portfolio History](Sample_Outputs/Port_History.png)
+
+### SIP Summary
+
+![SIP Summary](Sample_Outputs/SIP-Summary.png)
+
+### Master Data Sheet
+
+![Master Sheet](Sample_Outputs/Master_sheet.png)
 
 ## 👨‍💻 Author
 
